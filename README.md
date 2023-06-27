@@ -1,7 +1,5 @@
 # Expense Tracker iOS App
 
-[![License](https://img.shields.io/badge/license-CC%20BY--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0/legalcode)
-
 Welcome to my Expense Tracker iOS app! This SwiftUI-based application, developed using Xcode 13, allows you to effortlessly track your expenses and gain insights into your spending habits.
 
 ## Features
@@ -33,7 +31,3 @@ https://github.com/naomimatthews/Expense-Tracker-App/assets/67332327/51b6da59-ff
 1. Clone the repository.
 2. Open the project in Xcode 13 or later.
 3. Build and run the app on the iOS Simulator or your physical device.
-
-## License
-
-This project is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International Public License](https://creativecommons.org/licenses/by-nd/4.0/legalcode).
