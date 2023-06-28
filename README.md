@@ -20,11 +20,18 @@ The Expense Tracker iOS app supports both light and dark modes, adapting to your
 
 ### Light Mode
 
-https://github.com/naomimatthews/Expense-Tracker-App/assets/67332327/c9459a7c-a267-488d-934f-bf5d045b75ff
+
+
+https://github.com/naomimatthews/Expense-Tracker-App/assets/67332327/ac4232da-f406-49f5-adbc-f02e5aaa9e73
+
 
 ### Dark Mode
 
-https://github.com/naomimatthews/Expense-Tracker-App/assets/67332327/51b6da59-ff55-48af-bc4c-6608fe3c1b42
+
+
+https://github.com/naomimatthews/Expense-Tracker-App/assets/67332327/8b6b03c9-9b63-4e6d-8537-d622d66f50b4
+
+
 
 ## Installation
 
